@@ -1,0 +1,45 @@
+.main{
+    display: block;
+}
+.hero-section{
+    margin-bottom: 136px;
+}
+.hero-container{
+    width: 100vw;
+    background-image: url(../images/coffe.jpg);
+    background-size: cover;
+    padding: 117px 86px;
+    border-radius: 6px;
+}
+.hero-article{
+    width: 493px;
+}
+.hero-article-text{
+    font-family: Fraunces;
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 72px;
+    color: #fefcf7;
+}
+.hero-article-subtitle{
+    font-family: Barlow;
+    font-weight: 400;
+    color: #fefcf7cc;
+    mix-blend-mode: normal;
+    margin: 0 0 56px;
+    line-height: 26px;
+    font-size: 16px;
+}
+.hero-article-link{
+    font-size: 18px;
+    background-color: #66d2cf;
+    color: #fefcf7;
+    padding: 16px 31px;
+    line-height: 25px;
+    text-decoration: none;
+    border-radius: 6px;
+}
+.hero-article-link:hover{
+    color: black;
+    background-color: cyan;
+}

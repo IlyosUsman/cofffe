@@ -1,0 +1,28 @@
+.header{
+    margin-bottom: 48px;
+}
+.header-nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 0px;
+    margin-bottom: -20px;
+}
+.nav-list{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+}
+.nav-list-item-link{
+    font-family: Barlow;
+    font-weight: 700;
+    text-decoration: none;
+    margin-left: 33px;
+    font-size: 12px;
+    line-height: 15px;
+    color: #83888F;
+    text-transform: uppercase;
+}
+.nav-list-item-link:hover{
+    color: black;
+}
